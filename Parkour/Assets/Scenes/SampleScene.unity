@@ -423,7 +423,11 @@ SceneRoots:
   - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 1830581797}
+<<<<<<< HEAD:Parkour/Assets/Scenes/SampleScene.unity
 <<<<<<< HEAD:Parkour/Assets/Scenes/Level 1.unity
   - {fileID: 1342680678}
 =======
 >>>>>>> parent of 0df777c (Added playermovement + camera):Parkour/Assets/Scenes/SampleScene.unity
+=======
+  - {fileID: 1342680678}
+>>>>>>> parent of f76c4fa (not sure what this is):Parkour/Assets/Scenes/Level 1.unity
